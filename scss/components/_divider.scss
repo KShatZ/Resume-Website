@@ -7,7 +7,7 @@
   align-items: center;
   .divider-custom-line {
     width: 100%;
-    max-width: 7rem;
+    max-width: 700px !important;
     height: 0.25rem;
     background-color: $secondary;
     border-radius: 1rem;
@@ -25,7 +25,7 @@
   }
   &.divider-light {
     .divider-custom-line {
-      background-color: $white;
+      background-color: #fafa;
     }
     .divider-custom-icon {
       color: $white !important;
