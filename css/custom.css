@@ -9,10 +9,36 @@
           
 }
 
-.skills-section{
 
-          font-size: 1.75rem;
+
+.skills-list{
+         
+          
+          font-size: 1.5rem;
           font-weight: bold;
-          align-items: center;
+          width: 230px;
+          margin: auto;
+          
 
+
+          /* margin-left:25%;
+          margin-bottom: -.05rem; */
+          
+         
 }
+
+.course-list{
+          font-size: 1.5rem;
+          font-weight: bold;
+          width: 350px;
+          margin: auto;
+          padding-left: 1.75rem;
+                 
+}
+
+
+
+
+
+
+

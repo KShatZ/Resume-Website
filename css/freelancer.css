@@ -5510,7 +5510,7 @@ a.close.disabled {
   overflow-y: auto;
 }
 
-.modal-dialog-centered {
+.modal-dialoged {
   display: flex;
   align-items: center;
   min-height: calc(100% - 1rem);
@@ -9580,7 +9580,7 @@ a.text-dark:hover, a.text-dark:focus {
   max-width: 7rem;
   height: 0.25rem;
   background-color: #da330a;
-  border-radius: 1rem;
+   border-radius: 1rem; 
   border-color: #2c3e50 !important;
 }
 
