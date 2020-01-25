@@ -225,7 +225,8 @@
 
 .fa.fa-linkedin-square {
   font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
+  font-weight: 400;
+}
 
 .fa.fa-linkedin-square:before {
   content: "\f08c"; }
